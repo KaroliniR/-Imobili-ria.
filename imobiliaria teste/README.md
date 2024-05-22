@@ -1,0 +1,3 @@
+# Este projeto é um sistema de controle de imóveis para uma imobiliária, desenvolvido em Java, que permite gerenciar o cadastro, busca, exclusão e alteração de imóveis. Utilizamos a biblioteca Swing para criar uma interface gráfica que facilita a interação do usuário com o sistema.
+
+# Este sistema oferece uma solução completa para gerenciar imóveis em uma imobiliária, integrando uma interface gráfica amigável com funcionalidades robustas para manipulação dos dados. A utilização de Swing facilita a interação do usuário, enquanto a estrutura de classes garante a organização e eficiência na gestão dos imóveis.
