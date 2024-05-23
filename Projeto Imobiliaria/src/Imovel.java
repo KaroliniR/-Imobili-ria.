@@ -7,7 +7,6 @@ public class Imovel {
     private float preco;
     private Endereco localizacao;
 
-    // Construtor
     public Imovel(int codigo, float areaConstruida, float areaTotal, int numeroQuartos, int tipo, float preco, Endereco localizacao) {
         this.codigo = codigo;
         this.areaConstruida = areaConstruida;
